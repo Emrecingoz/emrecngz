@@ -82,51 +82,74 @@ background: rgba(255, 255, 2555, 0,8);
     font-size: 15px;
 
 }
-
-/*ANASAYFA*/
- .inner_anasayfa{
+/*anasayfa*/
+.nyutu img{
+    margin: 10px;
+}
+.hyrt{
     display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin: 0 auto;
-    width: 80%;
-    color: #fff;
- }
- .child_anasayfa{
-    flex-basis: 45%;
- }
- .child_anasayfa h1{
-    font-size: 50px;
-    color: aquamarine;
-
- }
- .span_child{
-    color: rgb(192, 201, 21);
- }
- .child_anasayfa p{ 
-    
-    font-size: 55px;
-    margin-bottom: 13px;
-
- }
- .btn{
-    background: #09c08c;
-    padding: 12px 28px;
-    border-radius: 20px;   
-    color: #ffffff;
-    border: 1px solid #24CAAC ;
-    font-weight: 750;
-    cursor: pointer;
-    transition: all .3 ease;
-
- }
- .btn:hover{
-    background: transparent;
- }
-
-.footer p{
     text-align: center;
-    background: transparent;
-    color: rgb(14, 117, 107); 
+    color: #fff;
+}
+
+.hyrt img{
+    width: 300px;
+    height: 300px;
+    text-align: right;
+    border-radius: 10px 10px;
+}
+.tyu{
+    text-align: middle;
+}
+.asd{
+    display: flex;
+    text-align: center;
     
+}
+.asd img{
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    border-radius: 15px 15px;
+    
+}
+.bnm{
+    color: #fff;
+}
+
+.zxc{
+    display: flex;
+    text-align: center;
+    color: #fff;
+}
+.zxc img{
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    border-radius: 15px 15px;
+}
+.xcv{
+    color: #fff;
+
+}
+.jkl{
+
+    display: flex;
+    text-align: center;
+    color: #fff;
+}
+.jkl img{
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    border-radius: 15px 15px;
+}
+.bıo{
+    color: #fff;
+}
+.nyutu video{
+    width: 1300px;
+    height:600px;
+    text-align: center;
+    border-radius: 15px 15px;
 }

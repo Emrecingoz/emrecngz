@@ -12,10 +12,8 @@ html{
 }
 body{
     font-family: 'montserrart',sans-serif;
-  background-color:rgb(17, 11, 59);
-
+    background-color:rgb(17, 11, 59);
 }
-
 img{
     width: 100%;
 
@@ -82,51 +80,29 @@ background: rgba(255, 255, 2555, 0,8);
     font-size: 15px;
 
 }
+/*anasayfa*/
+.div{
+    padding: 100px;
+}
 
-/*ANASAYFA*/
- .inner_anasayfa{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin: 0 auto;
-    width: 80%;
-    color: #fff;
- }
- .child_anasayfa{
-    flex-basis: 45%;
- }
- .child_anasayfa h1{
-    font-size: 50px;
-    color: aquamarine;
 
- }
- .span_child{
-    color: rgb(192, 201, 21);
- }
- .child_anasayfa p{ 
-    
-    font-size: 55px;
-    margin-bottom: 13px;
+.asd{
 
- }
- .btn{
-    background: #09c08c;
-    padding: 12px 28px;
-    border-radius: 20px;   
-    color: #ffffff;
-    border: 1px solid #24CAAC ;
-    font-weight: 750;
-    cursor: pointer;
-    transition: all .3 ease;
+text-align: justify;
 
- }
- .btn:hover{
-    background: transparent;
- }
 
-.footer p{
-    text-align: center;
-    background: transparent;
-    color: rgb(14, 117, 107); 
-    
+}
+.acv{
+
+height: 500px;
+width:1000px;
+color: #fff;
+
+}
+.acv p{
+    font-size: 25px;
+}
+.hjk a{
+   color: rgb(33, 103, 24);
+   flex-direction: column;
 }
